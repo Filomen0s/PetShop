@@ -1,0 +1,44 @@
+.navBar img{
+  height: 100px;
+}
+
+.menuHome{
+  padding: 0 20px !important;
+  border-left: 0px solid #666 !important;
+  text-transform: uppercase;
+  text-decoration: none !important;
+}
+
+.menu{
+  padding: 0 20px !important;
+  border-left: 1px solid #666 !important;
+  text-transform: uppercase;
+  text-decoration: none !important;
+}
+
+.linkPages{
+  color: #000;
+  text-decoration: none !important;
+  font-weight: 600;
+  transition: .4s;
+}
+
+.linkPages:hover{
+  font-weight: 500;
+  opacity: 55%;
+}
+
+.bannerUm{
+  height: 700px;
+  width: 1700px;
+}
+
+.bannerDois{
+  height: 700px;
+  width: 1530px;
+}
+
+.bannerTres{
+  height: 700px;
+  width: 1530px;
+}
